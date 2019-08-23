@@ -1,0 +1,8 @@
+[submodule "subMods/spliceuiitomic"]
+	path = subMods/spliceuiitomic
+	url = https://joelbarba@bitbucket.org/bluefacedevs/spliceuiitomic.git
+	branch = master
+[submodule "subMods/spliceuieuropasat"]
+	path = subMods/spliceuieuropasat
+	url = https://joelbarba@bitbucket.org/bluefacedevs/spliceuieuropasat.git
+	branch = master
